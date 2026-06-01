@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/indeks.html",
+      "permanent": true
+    }
+  ]
+}
